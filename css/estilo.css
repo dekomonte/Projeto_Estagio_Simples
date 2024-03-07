@@ -10,12 +10,10 @@ p{
 .cabecalho{
     color: darkblue;
     background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 30px 0;
-    padding: 40px 0;
+    text-align: center;
+    margin-left: 40%;
+    padding: 30px 10px;
     font-size: 40px;
     width: 10cm;
-    height: auto;
+    height: 1cm;
 }
