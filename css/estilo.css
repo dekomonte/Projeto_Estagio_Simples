@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(194, 194, 194);
+    font-family: 'Josefin Sans';
+}
+
+p{
+    font-size: 20px;
+}
+
+.cabecalho{
+    color: darkblue;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+    padding: 40px 0;
+    font-size: 40px;
+    width: 10cm;
+    height: auto;
+}
