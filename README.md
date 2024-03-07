@@ -8,3 +8,7 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 * Banco de Dados
 * PDO(conexão BD)
 * CRUD
+    * CREATE
+    * READ
+    * UPDATE
+    * DELETE
