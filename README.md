@@ -9,7 +9,7 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 * Bootstrap
 * PDO (conexão com o BD)
 * CRUD
-    [ ] CREATE
-    [ ] READ
-    [ ] UPDATE
-    [ ] DELETE
+    - [ ] CREATE
+    - [ ] READ
+    - [ ] UPDATE
+    - [ ] DELETE
