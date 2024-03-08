@@ -16,10 +16,34 @@
 
 </head>
 <body>
-    <div class="container">
+    <!--Cabeçalho-->
+    <div class="container p-5 bg-primary bg-gradient text-white text-center">
         <h1>Mútua de Estagiário</h1>
+        <p>Caixa de Assistência Fictícia dos Estagiários</p>
     </div>
     
+    <!--Menu Navegação Lateral-->
+    <div class="container">
+        <h2>Menu</h2>
+        <p>Associado</p>
+        <ul class="nav flex-column border rounded border-success col-1">
+            <li class="nav-item"><a class="nav-link" href="criar_registro.php">Criar</a></li>
+            <li class="nav-item"><a class="nav-link" href="consultar_registro.php">Consultar</a></li>
+            <li class="nav-item"><a class="nav-link" href="editar_registro.php">Editar</a></li>
+            <li class="nav-item"><a class="nav-link" href="remover_registro.php">Remover</a></li>
+        </ul>
+    </div>
+
+    <!--Centro-->
+    
+
+    <!--Rodapé-->
+    <footer>
+        <div class="container-fluid p-2 bg-light fixed-bottom border-top">
+            <p class="text-muted">Rodapé</p>
+        </div>
+    </footer>
+
 </body>
 </html>
 
