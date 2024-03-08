@@ -3,6 +3,7 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 
 ### Exigências
 
+<<<<<<< HEAD
 <ul>
     <li>PHP</li>
     <li>HTML (formulário)</li>
@@ -17,3 +18,15 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
         </ul>
     </li>
 </ul>
+=======
+* PHP
+* HTML(formulário)
+* Bootstrap
+* Banco de Dados
+* PDO(conexão BD)
+* CRUD
+    * CREATE
+    * READ
+    * UPDATE
+    * DELETE
+>>>>>>> a93256b709eb9ac4226e2a6e7ca579d93546fe45
