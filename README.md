@@ -5,6 +5,7 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 
 * PHP
 * HTML(formulário)
+* Bootstrap
 * Banco de Dados
 * PDO(conexão BD)
 * CRUD
