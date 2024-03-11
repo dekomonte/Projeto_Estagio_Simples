@@ -53,15 +53,24 @@
                 <label for="endereco1" class="form-label">Endereço:</label>
                 <input type="text" class="form-control" placeholder="Coloque o endereço" name="endereco1">
         </div>
-        <div class=row>
-            <div class="col">
+        <div class="form-row">
+            <div class="form-group col-sm-4">
                 <label for="cidade" class="form-label">Cidade:</label>
                 <input type="text" class="form-control" placeholder="Coloque a cidade" name="cidade">
             </div>
-            <div class="col">
-                <label for="cidade" class="form-label">Cidade:</label>
-                <input type="text" class="form-control" placeholder="Coloque a cidade" name="cidade">
+            <div class="form-group col-sm-2">
+                <label for="estado" class="form-label">Estado:</label>
+                    <select id="estado" class="form-control">
+                        <option selected>Escolher...</option>
+                        <option>DF</option>
+                        <option>PA</option>
+                </select>
             </div>
+            <div class="form-group col-sm-2">
+                <label for="cep">CEP</label>
+                <input type="text" class="form-control" id="cep">
+            </div>
+
         </div>
     </form>
     </div>
