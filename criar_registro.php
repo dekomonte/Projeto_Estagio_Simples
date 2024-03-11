@@ -23,12 +23,37 @@
     </div>
     
     <!--#----------ÁREA DE TRABALHO----------#-->
-    <div class="container start-0">
+    <div class="container start-0 mb-3">
         <a href="index.php">
             <button type="button" class="btn btn-secondary">
                 Voltar
             </button>
         </a>
+    </div>
+
+    <!--Formulário-->
+    <div class="container py-5 border rounded border-success">
+        <h2 class="text-center">Cadastro de Associado</h2>
+    <form>
+        <div class="mt-3 mb-3">
+            <label for="nome" class="form-label">Nome:</label>
+            <input type="text" class="form-control" id="nome" placeholder="Coloque o nome" name="nome">
+        </div>
+        <div class="row">
+            <div class="col">
+                <label for="email" class="form-label">Email:</label>
+                <input type="text" class="form-control" placeholder="Coloque o email" name="email">
+            </div>
+            <div class="col">
+                <label for="senha" class="form-label">Senha:</label>
+                <input type="password" class="form-control" placeholder="Coloque a senha" name="senha">
+            </div>
+        </div>
+        <div class="mt-3 mb-3">
+                <label for="endereco1" class="form-label">Endereço:</label>
+                <input type="text" class="form-control" placeholder="Coloque o endereço" name="endereco1">
+        </div>
+    </form>
     </div>
     
 
