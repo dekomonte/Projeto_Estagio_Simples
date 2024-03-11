@@ -23,7 +23,13 @@
     </div>
     
     <!--#----------ÁREA DE TRABALHO----------#-->
-
+    <div class="container start-0">
+        <a href="index.php">
+            <button type="button" class="btn btn-secondary">
+                Voltar
+            </button>
+        </a>
+    </div>
 
 
 

@@ -22,7 +22,7 @@
         <p>Caixa de Assistência Fictícia dos Estagiários</p>
     </div>
     
-    <!--Menu Navegação Lateral-->
+    <!--Menu Navegação-->
     <div class="container mt-3 text-center col-sm-3">
         <h2 class="text-dark">Menu</h2>
         <ul class="nav flex-column border rounded border-success">
@@ -33,8 +33,10 @@
         </ul>
     </div>
 
-    <!--Centro-->
-    
+    <!--Deusa Atena-->
+    <div class="container mt-3 text-center">
+        <img src="img/atena.jpg" class="rounded" alt="Cinque Terre" width="300">
+    </div>
 
     <!--Rodapé-->
     <footer>
