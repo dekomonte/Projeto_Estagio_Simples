@@ -54,6 +54,7 @@
                 <input type="text" class="form-control" placeholder="Coloque o endereço" name="endereco1">
         </div>
         <div class="form-row">
+            
             <div class="form-group col-sm-4">
                 <label for="cidade" class="form-label">Cidade:</label>
                 <input type="text" class="form-control" placeholder="Coloque a cidade" name="cidade">
