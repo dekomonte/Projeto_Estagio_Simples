@@ -1,3 +1,7 @@
+# ATUALIZAÇÃO
+Projeto descontinuado. Fiz outra versão partindo de um template de front-end. 
+<hr>
+
 # Projeto_LANU
 Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 
@@ -14,6 +18,4 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
     - [ ] UPDATE
     - [ ] DELETE
 
-<hr>
-# ATUALIZAÇÃO
-Projeto descontinuado. Fiz outra versão partindo de um template de front-end. 
+
