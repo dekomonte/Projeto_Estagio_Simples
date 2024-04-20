@@ -13,3 +13,7 @@ Projeto para entender melhor o funcionamento de um sistema. (Estágio)
     - [ ] READ
     - [ ] UPDATE
     - [ ] DELETE
+
+<hr>
+# ATUALIZAÇÃO
+Projeto descontinuado. Fiz outra versão partindo de um template de front-end. 
