@@ -1,5 +1,5 @@
 # ATUALIZAÇÃO
-Projeto descontinuado. Fiz outra versão partindo de um template de front-end. 
+**Projeto descontinuado. Fiz outra versão partindo de um template de front-end.** 
 <hr>
 
 ## Projeto_Estagio (simples)
