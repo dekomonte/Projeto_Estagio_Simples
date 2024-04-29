@@ -2,7 +2,7 @@
 Projeto descontinuado. Fiz outra versão partindo de um template de front-end. 
 <hr>
 
-# Projeto_Estagio (simples)
+## Projeto_Estagio (simples)
 Projeto para entender melhor o funcionamento de um sistema. (Estágio)
 
 ### Exigências
